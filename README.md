@@ -16,7 +16,7 @@
 - Free, open-source, and portable.
 
 # Detailed comparison with Appcopier and CloneApp
-| **[WinExport](https://github.com/Tux528/WinExport) ([Tux 528](https://github.com/Tux528))** | **[Appcopier](https://github.com/builtbybel/Appcopier) ([Belim](https://github.com/Belim))** | **[CloneApp](https://github.com/builtbybel/CloneApp) ([Belim](https://github.com/Belim))** |
+| | **[WinExport](https://github.com/Tux528/WinExport)<br>([Tux 528](https://github.com/Tux528))** | **[Appcopier](https://github.com/builtbybel/Appcopier) ([Belim](https://github.com/Belim))** | **[CloneApp](https://github.com/builtbybel/CloneApp) ([Belim](https://github.com/Belim))** |
 | :--- | :--: | :--: | :--: |
 | Total number of supported settings | 54[^1] | 23[^2] | 249[^3] |
 | Accurately exports settings without including dynamic and conflicting data? [^4] | ✔️ | ❌ | ❌ |
