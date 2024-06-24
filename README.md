@@ -3,7 +3,7 @@
 | [Features](#features) | [Instructions for use](#instructions-for-use) | [Feedback](#feedback) | [Acknowledgements](#acknowledgements) | [Contact](#contact) |
 | :--: | :--: | :--: | :--: | :--: |
 
-![WinExport v0.1 GUI](https://github.com/Tux528/WinExport/assets/155831438/d7cbe3d0-078c-411b-aab5-0736bc0e7d17)
+![WinExport v0.2 GUI](https://github.com/Tux528/WinExport/assets/155831438/55e45c4d-8ee0-4280-9296-a5d2244c0865)
 
 # Features
 
